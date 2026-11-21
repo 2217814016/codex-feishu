@@ -1,5 +1,7 @@
 # 从零开始把 Codex 接入飞书
 
+![效果展示图](images/Snipaste_2026-11-21_23-36-46.png)
+
 ## Windows + PowerShell + Miniconda 实操教程
 
 本教程按我们实际走通的 Windows 方案整理。完成后，你可以在飞书私聊自己的机器人，把任务交给本机 Codex，也可以让它读取、修改已授权的飞书文档。
